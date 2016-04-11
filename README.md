@@ -1,2 +1,3 @@
 # hello-world
-first test of git
+
+This is the first time I use git, hope this works!
